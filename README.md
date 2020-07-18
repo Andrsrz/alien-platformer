@@ -6,7 +6,7 @@ Videogame made with [Godot Engine](https://godotengine.org/).
 - [Godot Unit Testing](https://github.com/bitwes/Gut).
 
 ## Acknowledgement
-- Assets thanks to [Kenney](www.kenney.nl).
+- Assets thanks to [Kenney](https://www.kenney.nl).
 
 ## License
 - Source code under [MIT](https://mit-license.org/).
