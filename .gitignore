@@ -7,7 +7,8 @@ export_presets.cfg
 # This folder stores automatically-generated Mono files. It only exists in projects that use the Mono version of Godot.
 .mono/
 
-# This file are from the git plugin for godot
+# Dev packages. Git plugin and Godot Unit Testing
 bin/
 git_api.gdnlib
 git_api.gdns
+gut/
