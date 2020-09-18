@@ -1,9 +1,5 @@
 # Alien Platformer
-Videogame made with [Godot Engine](https://godotengine.org/).
-
-## Development
-- [Git Plugin](https://github.com/godotengine/godot-git-plugin).
-- [Godot Unit Testing](https://github.com/bitwes/Gut).
+Videogame
 
 ## Acknowledgement
 - Assets thanks to [Kenney](https://www.kenney.nl).
