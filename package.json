@@ -2,9 +2,11 @@
   "name": "alien-platformer",
   "version": "0.0.1",
   "description": "Video game",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"build": "webpack",
+	"devStart": "webpack --watch"
   },
   "repository": {
     "type": "git",
