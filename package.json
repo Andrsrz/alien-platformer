@@ -1,0 +1,26 @@
+{
+  "name": "alien-platformer",
+  "version": "0.0.1",
+  "description": "Video game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrsrz/alien-platformer.git"
+  },
+  "author": "Andres Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andrsrz/alien-platformer/issues"
+  },
+  "homepage": "https://github.com/Andrsrz/alien-platformer#readme",
+  "dependencies": {
+    "phaser": "^3.24.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
