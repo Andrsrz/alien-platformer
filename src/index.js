@@ -8,7 +8,8 @@ gameScene.preload = function(){
 
 gameScene.create = function(){
 	let background = this.add.sprite(0, 0, 'background')
-	background.setOrigin(0, 0)
+	// background.setOrigin(0, 0)
+	background.setPosition(50, 50)
 }
 
 let config = {
